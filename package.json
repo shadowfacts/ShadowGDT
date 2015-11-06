@@ -1,0 +1,12 @@
+{
+	"id" : "ShadowGDT",
+	"name" : "ShadowGDT",
+	"version":"0.1.0",
+	"author":"Shadowfacts <me@shadowfacts.net>",
+	"url":"https://github.com/shadowfacts/ShadowGDT",
+	"description" : "Library mod used by all of Shadowfacts' mods.",
+	"main" : "./src/ShadowGDT.js",
+	"dependencies": {
+		"gdt-modAPI": "0.1.x"
+	}
+}
